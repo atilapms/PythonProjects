@@ -20,7 +20,7 @@ that I decided to get from their website was 1. the next meetings to discuss abo
 1- BeautifulSoup (bs4);<br />
 2- Requests;<br />
 3- Selenium.<br />
-<i>You can use "pip install 'librarie'" to get the packages.</i>
+<i>You can use "pip install 'library'" to get the packages.</i>
 </p>
 
 <h6><i>The program is in Portuguese (pt-br)</i></h6>
