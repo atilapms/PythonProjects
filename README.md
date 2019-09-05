@@ -1,8 +1,8 @@
 <h1>PYTHON PROJECTS
-<h3>Some projects using Python and its infinity of libraries (mostly about data sciente).
+  <h3>Some projects using Python and its infinity of libraries (mostly about data sciente).</h3>
 
 
-<h5><p>As a beginner student of Python, I'm trying to create a few short and simple projects to pratice and get better.
+As a beginner student of Python, I'm trying to create a few short and simple projects to pratice and get better.
 
 These projects are separated by folder and you can easily find them by subject usind the folders name.
 
